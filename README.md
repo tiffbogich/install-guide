@@ -1,4 +1,4 @@
-[SSM](https://github.com/standard-analytics/ssm) Environment Install Guide (
+[SSM](https://github.com/standard-analytics/ssm) Environment Install Guide 
 ---------------
 
 Select the environment you want to setup a web development environment in:
@@ -13,4 +13,7 @@ Other useful software to install:
 * [Accounts](accounts.md)
 
 
-*Adapted from [Firehose Weekend Environment Install Guide](https://github.com/FirehoseWeekend/install-guide))*
+
+
+
+*(Adapted from [Firehose Weekend Environment Install Guide](https://github.com/FirehoseWeekend/install-guide))*
