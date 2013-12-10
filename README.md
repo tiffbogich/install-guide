@@ -1,4 +1,4 @@
-Firehose Weekend Environment Install Guide
+Firehose Weekend Environment Install Guide (Adapted for [SSM](https://github.com/standard-analytics/ssm))
 ---------------
 
 Select the environment you want to setup a web development environment in:
