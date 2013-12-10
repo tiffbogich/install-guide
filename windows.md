@@ -12,7 +12,7 @@ Step 1 - Install VirtualBox
 Step 2 - Create a Virtual Environment
 ------------
 * Press the _New_ button[^](http://i.imgur.com/ILPgFTk.png).  
-* Enter `Firehose Rails Env` for the name, `Linux` for the type, and `Ubuntu` for the version and press the continue button in the bottom right[^](http://i.imgur.com/xnN2eDJ.png). 
+* Enter `Inference Env` for the name, `Linux` for the type, and `Ubuntu` for the version and press the continue button in the bottom right[^](http://i.imgur.com/xnN2eDJ.png). 
 * Enter `1024` mb for the Memory Size and press the continue button [^](http://i.imgur.com/UOopcQ0.png).
 * Press the _Create_ button[^](http://i.imgur.com/kWI3QsU.png).
 * Press _Continue_ at the hard drive creation dialog[^](http://i.imgur.com/smSASxl.png).
