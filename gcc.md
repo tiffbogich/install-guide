@@ -21,29 +21,4 @@ brew install libksba
 brew install git
 ```
 
-Next Step
----------
-
-If you're running 10.7.x you can go back to the previous install guide and continue by starting the section that is labeled "RVM".  If you're running 10.6.x, you'll need to go to Step 2 in the below section.
-
-Step 2 (Install Ruby through rbenv instead of RVM)
---------
-
-__Only do this if you're running 10.6x__
-
-* Install [rbenv](https://github.com/sstephenson/rbenv) (Instead of RVM)
-* Install [ruby-build](https://github.com/sstephenson/ruby-build)
-* Install ruby 2.0.0
-
-```
-rbenv install 2.0.0-p247
-```
-
-Now skip ahead to the part in the docs where it says "Now let's get you the rails version we're using".
-
-After running "gem install rails -v [version number]" you'll need to run `rbenv rehash`.
-
-Skip installing git, and homebrew for the docs that exist, because we've already done that.
-
-
 
