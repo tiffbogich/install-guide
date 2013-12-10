@@ -66,5 +66,5 @@ We will set-up git so it connects to your github after you have your github acco
 
 ###Awesome! You're all done here!###
 
-__--> Now get your software and accounts set-up [here](https://github.com/FirehoseWeekend/install-guide)__
+__--> Now get your software and accounts set-up [here](https://github.com/tiffbogich/install-guide)__
 
