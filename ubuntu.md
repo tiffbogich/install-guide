@@ -31,58 +31,15 @@ This indicates text that should be entered into terminal
 sudo apt-get install curl
 ```
 
-* Install rvm
-
-```
-curl -L https://get.rvm.io | bash -s stable
-source ~/.bash_profile
-rvm install 2.0.0
-rvm use 2.0.0
-rvm gemset use 2.0.0@firehose --default --create
-```
-
 * Install git
 
 ```
 sudo apt-get install git-core
 ```
 
-* Install Rails
-
-```
-gem install rails -v 3.2.14
-```
-
-* Install Postgres
-
-```
-sudo apt-get install postgresql postgresql-contrib libpq-dev
-```
-
-
-** Configure Postgres User Account **
-
-```
-sudo -u postgres psql postgres
-\password postgres
-```
-
-When prompted for a password (and a confirmation) enter: `password`.
-
-Press ctrl+d to close the postgres console.
 
 * Install NodeJS
 
 ```
 sudo apt-get install node
-```
-
-
-** Install Nokogiri RubyGem **
-
-Nokogiri is a rubygem that we need and it requires certain packages to be installed.  To install those packages and make sure the gem can be installed run these commands:
-
-```
-sudo apt-get install ruby1.8-dev ruby1.8 ri1.8 rdoc1.8 irb1.8 libreadline-ruby1.8 libruby1.8 libopenssl-ruby libxslt-dev libxml2-dev libxslt1-dev libxml2-dev
-gem install nokogiri
 ```
