@@ -34,10 +34,9 @@ Once you install XCode, you need to install the command line integration.
 
 * Press Command+[Space] to launch spotlight in the top right window
 * Type `xcode` and press enter
-* In the menu bar click `XCode>Preferences`
-* Press the downloads tab in the top bar of the dialog (See [this](http://i.imgur.com/V0MnjNS.png) picture for a screenshot of this and the next step)
-* Press the `Install` next to the "Command Line Tools" listing
-
+* In the menu bar click `XCode>Open Developer Tool>More Developer Tools...`
+* This will take you to the apple developer site, which you should log in to
+* Select, download, and install "Command Line Tools (OS X Mavericks) for Xcode - late October"
 
 ###Homebrew###
 Why? with homebrew you can install a lot of programs with a single command line. It will save you a lot of time.
